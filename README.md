@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohantekale" alt="rohantekale" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **tekalerohan7@gmail.com**
 
