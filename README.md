@@ -7,7 +7,7 @@
 
 ### 🔹 About Me
 - 🌱 **Currently working as a Junior Backend Developer**
-- 💻 **Tech Stack:** Python, Django, PostgreSQL, Docker, Redis, Celery, AWS
+- 💻 **Tech Stack:** Python, Django, PostgreSQL, Docker, Redis, Celery, AWS, FastAPI
 - 🚀 **Projects:** Healthcare & E-commerce solutions, ERP systems
 - 📫 **Reach me at:** [tekalerohan7@gmail.com](mailto:tekalerohan7@gmail.com)
 
@@ -23,6 +23,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -48,5 +49,6 @@
 - 🏥 **Healthcare E-commerce Platform** (Django, PostgreSQL, AWS, Celery)
 - 📦 **ERP System - FreshGerium** (Python, Django, Redis, PostgreSQL, AWS, Docker)
 - 🤖 **AI Chatbot for Customer Support** (Gradio, Hugging Face, Django, FastAPI)
+- 🎥 **Video Processing API** (FastAPI, FFMPEG, OpenCV, Whisper, AWS S3)
 
 🚀 Always eager to learn and build impactful software solutions!
